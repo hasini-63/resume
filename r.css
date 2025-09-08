@@ -1,0 +1,28 @@
+.box{
+ border:2px solid #9370db;
+ padding:25px;
+ box-sizing: border-box;
+  float:left;
+  color:#333333;
+  fonr-family:Arial, sans-serief;
+}
+#b1{
+height: 892px;
+ width: 25%;
+ background-color:lavender;
+}
+#b1 img{
+ border:3px solid black;
+ display: block;
+ margin: 0 auto;
+ width: 100px; 
+ height: 100px;
+ border-radius:100%;
+background-fit:cover;
+}
+
+#b2{
+height: 892px;
+ width: 75%;
+ background-color:thistle;
+}
